@@ -1,10 +1,10 @@
 # Site settings
 title: Emerald | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
-url: "https://MeresaG.github.io/emerald"
+url: "https://MeresaG.github.io/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
+  name: "Meresa Gebrehiwot"
+  email: "meresa27@gmail.com"
   url: "https://MeresaG.github.io"
 
 # Build settings
